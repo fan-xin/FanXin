@@ -15,9 +15,9 @@ Live in Tokyo,Japan more than 6 years.
 | Period | Colloge Name  | Country | 
 | --------   | -----:  | -----:  | 
 | 2006~2010 | Harbin Institute of Technology (HIT) | China |
-| 2011 | Kyushu University | Japan |
+| 2010~2011 | Kyushu University | Japan |
 | 2011-2013 | Aizu University | Japan |
-| 2013~Now | Fujitsu Gourp | Japan |
+| 2013~ | Fujitsu Gourp | Japan |
 
 ## I can speak Chinese, Japanse and English.
 
