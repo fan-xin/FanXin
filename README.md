@@ -4,8 +4,8 @@ Embedded Linux Developer in Fujitsu Gourp from Oct, 2013.
 
 Contact Me:
 
-- fanxin.hit@gmail.com
-- fan.xin@jp.fujitsu.com
+- fanxin.hit@gmail.com (private)
+- fan.xin@jp.fujitsu.com (official)
 
 Live in Tokyo,Japan more than 6 years.
 
