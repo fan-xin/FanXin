@@ -24,8 +24,11 @@ Live in Tokyo,Japan more than 6 years.
 ## My Certification
 
 LPIC 3
+
 LPIC 2
+
 LPIC 1
+
 JLPT N1
 
 ## My interest: Embedded Linux, Package Manager 
