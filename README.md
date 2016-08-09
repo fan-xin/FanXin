@@ -54,7 +54,7 @@ MiniJamboree(Jankins)
 
 LinuxCon Japan 2016
 
-Automitive Linux Summit 2016 [presentation](http://events.linuxfoundation.jp/sites/events/files/slides/ALS_2016_r007.pdf)
+Automitive Linux Summit 2016 ( [presentation slide](http://events.linuxfoundation.jp/sites/events/files/slides/ALS_2016_r007.pdf) )
 
 
 
