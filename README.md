@@ -46,15 +46,17 @@ LinuxCon 2015
 
 Jamboree # (presentation)
 
-Embedded Linux Conference 2016 (presentation)
+Embedded Linux Conference 2016 [presentation]
 
 BoF of Yocto
 
 MiniJamboree(Jankins)
 
-Automitive Linux Summit 2016 (presentation)
-
 LinuxCon Japan 2016
+
+Automitive Linux Summit 2016 (presentation)(http://events.linuxfoundation.jp/sites/events/files/slides/ALS_2016_r007.pdf)
+
+
 
 
 # My Contribution 
