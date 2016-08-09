@@ -25,6 +25,38 @@ Live in Tokyo,Japan more than 6 years.
 
 ## Hobby: Painting
 
+
+# Attend Conference
+
+## 2014
+Jamboree #
+
+Jamboree #
+
+LinuxCon 2014
+
+## 2015
+
+Jamboree
+
+
+LinuxCon 2015
+
+## 2016
+
+Jamboree # (presentation)
+
+Embedded Linux Conference 2016 (presentation)
+
+BoF of Yocto
+
+MiniJamboree(Jankins)
+
+Automitive Linux Summit 2016 (presentation)
+
+LinuxCon Japan 2016
+
+
 # My Contribution 
 
 openembedded-core
