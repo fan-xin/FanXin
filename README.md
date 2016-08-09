@@ -44,9 +44,11 @@ LinuxCon 2015
 
 ## 2016
 
-Jamboree # (presentation)
+AGL All Member Meeting Winter 2016 ( [presentation slide](http://www.fujitsu.com/jp/group/fct/documents/events/2016/A_Smart_Way_to_Manage_Packages.pdf) )
 
-Embedded Linux Conference 2016 [presentation]
+The Linux Foundation CE Workgroup Japan Technical Jamboree 56 ( [presentation slide](http://www.fujitsu.com/jp/group/fct/documents/events/2016/A_Smart_Way_to_Manage_Packages.pdf) )
+
+Embedded Linux Conference 2016 ( [presentation slide](http://www.fujitsu.com/jp/group/fct/documents/events/2016/A_Smart_Way_to_Manage_Packages_in_Yocto_Project.pdf) )
 
 BoF of Yocto
 
