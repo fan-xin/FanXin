@@ -9,6 +9,13 @@ Contact Me:
 
 Live in Tokyo more than 6 years.
 
+## Employment
+| Period | Company Name  | Country | 
+| --------   | -----:  | -----:  | 
+| 2013~ | Fujitsu Gourp | Japan |
+
+## My work is developing the In-house Embedded Linux Dirstributor for Fujitsu's products.
+
 ## Education
 
 | Period | Colloge Name  | Country | 
@@ -16,11 +23,13 @@ Live in Tokyo more than 6 years.
 | 2006~2010 | Harbin Institute of Technology (HIT) | China |
 | 2010~2011 | Kyushu University | Japan |
 | 2011-2013 | Aizu University | Japan |
-| 2013~ | Fujitsu Gourp | Japan |
 
-## I can speak Chinese, Japanse and English.
-
-## My work is developing the In-house Embedded Linux Dirstributor for Fujitsu's products.
+## Language
+| Language | Level  | 
+| --------   | -----:  | 
+| Chinese | Native |
+| Japanese | Businese |
+| English | Business |
 
 ## My Certification
 
@@ -34,8 +43,6 @@ Live in Tokyo more than 6 years.
 ## My interest: Embedded Linux, Package Manager 
 
 ## Hobby: Painting
-
-
 
 # Attend Linux Foundation Conference
 
