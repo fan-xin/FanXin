@@ -7,10 +7,9 @@ Contact Me:
 - fanxin.hit@gmail.com (private)
 - fan.xin@jp.fujitsu.com (official)
 
-Live in Tokyo,Japan more than 6 years.
+Live in Tokyo more than 6 years.
 
 ## Education
-
 
 | Period | Colloge Name  | Country | 
 | --------   | -----:  | -----:  | 
@@ -25,13 +24,12 @@ Live in Tokyo,Japan more than 6 years.
 
 ## My Certification
 
-LPIC 3
-
-LPIC 2
-
-LPIC 1
-
-JLPT N1
+|Certification Name | Date |
+| --------   | -----:  |
+|LPIC-300 | 2015-09-26 |
+|LPIC-2 | 2015-07-12 | 
+|LPIC-1 | 2014-01-26 |
+|JLPT N1 | 2012 |
 
 ## My interest: Embedded Linux, Package Manager 
 
