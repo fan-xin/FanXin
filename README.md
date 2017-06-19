@@ -46,6 +46,20 @@ Live in Tokyo more than 6 years.
 
 # Attend Linux Foundation Conference
 
+## 2017
+
+Embedded Linux Conference 2017, Portland Oregon ([presentation slide])
+
+The Linux Foundation CE Workgroup Japan Technical Jamboree 59 
+
+Open Souce Summit 2017 
+
+Automotive Linux Summit 2017
+
+The Linux Foundation CE Workgroup Japan Technical Jamboree 60 
+
+
+
 ## 2016
 
 Automitive Linux Summit 2016 ( [presentation slide](http://events.linuxfoundation.jp/sites/events/files/slides/ALS_2016_r007.pdf) )
