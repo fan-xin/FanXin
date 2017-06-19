@@ -1,4 +1,4 @@
-# FanXin ( 樊 昕 )
+# Fan Xin ( 樊 昕 )
 
 Embedded Linux Developer in Fujitsu Gourp from Oct, 2013.
 
