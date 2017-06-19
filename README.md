@@ -103,13 +103,20 @@ TRONSHOW 2014
 
 Embedded Technology 2013（ET2013)
 
-# My Contribution 
+# My Contribution to OSS
 
 openembedded-core
 http://cgit.openembedded.org/openembedded-core/log/?qt=grep&q=fan.xin
 
 meta-openembedded
 http://cgit.openembedded.org/meta-openembedded/log/?qt=grep&q=fan.xin
+
+meta-virtualization
+http://git.yoctoproject.org/cgit/cgit.cgi/meta-virtualization/log/?qt=grep&q=Fan+Xin
+
+Smart Package Manager
+
+DNF 
 
 
 
